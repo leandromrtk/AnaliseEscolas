@@ -5,7 +5,9 @@ Uma breve análise de escolas públicas e privadas.
 O engenheiro de dados da sua empresa forneceu acesso a dois conjuntos de dados pré-processados. Agora, cabe a você analisá-los cuidadosamente para identificar quais escolas utilizaram seus recursos de forma mais eficiente na preparação de estudantes que se destacaram nas Olimpíadas de Redação e de Matemática.
 Repositório com slides, códigos e outros materiais usados em aula.
 
-Para executar o projeto: Abrir o cmd e colar digitar os comandos.
+Para executar o projeto: Abrir o cmd e colar digitar os comandos de acordo com o SO (Sistema Operacional) utilizado.
+Recomendo a utilização do GoogleColab para melhor praticidade e excução do projeto.
+
 
 Windows
 ```bash
